@@ -1,0 +1,7 @@
+C:\Users\IAN\Desktop\prueba\prueba_1\bin\Debug\prueba_1.exe.config
+C:\Users\IAN\Desktop\prueba\prueba_1\bin\Debug\prueba_1.exe
+C:\Users\IAN\Desktop\prueba\prueba_1\bin\Debug\prueba_1.pdb
+C:\Users\IAN\Desktop\prueba\prueba_1\obj\Debug\prueba_1.csproj.AssemblyReference.cache
+C:\Users\IAN\Desktop\prueba\prueba_1\obj\Debug\prueba_1.csproj.CoreCompileInputs.cache
+C:\Users\IAN\Desktop\prueba\prueba_1\obj\Debug\prueba_1.exe
+C:\Users\IAN\Desktop\prueba\prueba_1\obj\Debug\prueba_1.pdb
